@@ -6,4 +6,4 @@ exemplo de markdown
 
 Imagem abaixo
 
-![./aprendendo.png](teste)
+![aprendendo.png](teste)
